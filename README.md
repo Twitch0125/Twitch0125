@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on small projects for a baseball discord using Nuxt and "the edge"
+- 🌱 I’m currently learning UI/UX Design and server side JS (node, deno, etc)
+- 👯 I’m looking to collaborate on anything related to games
+- 💬 Ask me about Vue
+- 📫 How to reach me: kaleb.ercanbrack@hey.com
+- ⚡ Fun fact: I have 6 coffee brewing devices
 <!--
 **Twitch0125/Twitch0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
