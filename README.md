@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on small projects for a baseball discord using Nuxt and various deployment methods
 - 🌱 I’m currently learning UI/UX Design and server side JS (node, deno, etc)
-- 👯 I’m looking to collaborate on anything related to games
+- 👯 I’m looking to collaborate on pretty much anything
 - 💬 Ask me about Vue
 - 📫 How to reach me: kaleb.ercanbrack@hey.com
 - ⚡ Fun fact: I have 6 coffee brewing devices
