@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on small projects for a baseball discord using Nuxt and various deployment methods
+- 🔭 I’m currently working on small projects for a baseball discord using Deno and Nuxt with various deployment methods
 - 🌱 I’m currently learning UI/UX Design and server side JS (node, deno, etc)
 - 👯 I’m looking to collaborate on pretty much anything
 - 💬 Ask me about Vue
