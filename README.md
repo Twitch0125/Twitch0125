@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on small projects for a baseball discord using Deno and Nuxt with various deployment methods
-- 🌱 I’m currently learning about API design and local First stuff.
+- 🌱 I’m currently learning about API design and some Elixir.
 - 👯 I’m looking to collaborate on pretty much anything
 - 💬 Ask me about Vue
 - 📫 How to reach me: kaleb.ercanbrack@hey.com
